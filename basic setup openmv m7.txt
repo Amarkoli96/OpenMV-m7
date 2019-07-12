@@ -1,0 +1,9 @@
+1 ] Download the IDE from "https://openmv.io/pages/download" and install as per your operating system
+2 ] Open IDE after installation
+3 ] Connect USB to COM Port
+	-first it will ask for firmware update, update it(for IDE)
+	-then it will ask for the previous program to erase and re-programming
+	-next it will ask which device we are connecting m7/h7 etc
+4 ] Click on File->Examples select basic examples
+5 ] Click on the connect button and your device is connected 
+6 ] click no |> play button to run script to the Openmv Camera 
